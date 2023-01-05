@@ -1,5 +1,30 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "name": "Delbert Ebert",
+      "id": 12
+    },
+    {
+      "name": "Brandi Abernathy",
+      "id": 13
+    },
+    {
+      "name": "Mary Corwin",
+      "id": 14
+    },
+    {
+      "name": "Amy Bernier",
+      "id": 15
+    },
+    {
+      "name": "Emmett Waters",
+      "id": 16
+    },
+    {
+      "name": "Gerald Collins",
+      "id": 17
+    }
+  ],
   "albums": [],
   "photos": []
 }
